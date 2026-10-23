@@ -1,0 +1,15 @@
+source_name,language,source_type,url,status,notes
+Xinhua Finance,Chinese,state_media,https://finance.xinhua.net/,planned,Strong official and policy framing
+China Daily,Chinese,state_media,https://www.chinadaily.com.cn/,planned,Good for strategic and industrial policy narratives
+People's Daily Economy,Chinese,state_media,https://finance.people.com.cn/,planned,Useful for government-aligned economic framing
+MOFCOM,Chinese,government,https://www.mofcom.gov.cn/,planned,Official trade and industrial policy language
+GACC,Chinese,government,http://www.customs.gov.cn/,planned,Customs and import/export framing
+First Financial,Chinese,business_media,https://www.yicai.com/,planned,Useful business-media framing
+Caixin,Chinese,business_media,https://www.caixin.com/,planned,Good for business and market narratives
+Reuters,English,business_media,https://www.reuters.com/,planned,High-signal balanced business coverage
+Financial Times,English,business_media,https://www.ft.com/,planned,Strong on trade and strategic risk framing
+Euractiv,English,policy_media,https://www.euractiv.com/,planned,EU policy and industrial framing
+European Commission,English,government,https://ec.europa.eu/info/index_en,planned,Official EU trade and industry language
+OECD,English,international_org,https://www.oecd.org/,planned,Policy and trade dependency commentary
+WTO,English,international_org,https://www.wto.org/,planned,Trade-policy and dependency framing
+Bloomberg,English,business_media,https://www.bloomberg.com/,planned,High-quality business framing

@@ -1,0 +1,63 @@
+Project 2 pilot analysis report
+==============================
+
+EN top terms: to, of, in, china, eu
+ZH top terms: 十五五, 安全, 规划, 来源, 庆祝中华人民共和国成立
+Highest collocation overall: investment (61 matches)
+
+Module A: top frequency/keyness terms
+-----------------------------------
+language       term  count  freq_per_1000_tokens       source
+      en         to    345                32.590          NaN
+      en         of    344                32.496          NaN
+      en         in    292                27.584          NaN
+      en      china    242                22.860          NaN
+      en         eu    206                19.460          NaN
+      en         on    111                10.486          NaN
+      en      trade     88                 8.313          NaN
+      en industrial     86                 8.124          NaN
+      en     single     77                 7.274          NaN
+      en         is     74                 6.990          NaN
+      en         by     64                 6.046          NaN
+      en      world     64                 6.046          NaN
+      en   strategy     61                 5.762          NaN
+      en investment     61                 0.641 keyword_bank
+      en     europe     58                 5.479          NaN
+      en    digital     55                 5.196          NaN
+      en   economic     53                 5.007          NaN
+      en        has     52                 4.912          NaN
+      en        new     50                 4.723          NaN
+      en      goods     49                 4.629          NaN
+
+Module B: collocations
+---------------------
+language       collocation  count  relative_strength
+      en        investment     61              7.625
+      en       partnership     23              2.875
+      en        resilience     22              2.750
+      en          security     12              1.500
+      en      supply chain     12              1.500
+      en        disruption      9              1.125
+      en              risk      6              0.750
+      en industrial policy      3              0.375
+      en    semiconductors      3              0.375
+      zh                安全     35              5.000
+      zh                合作     12              1.714
+      zh                稳定      5              0.714
+      zh                投资      5              0.714
+      zh              集成电路      4              0.571
+      zh               供应链      2              0.286
+
+Module C: framing dictionary
+---------------------------
+language        frame  count  per_document
+      en  cooperation     91        11.375
+      en         risk     52         6.500
+      en supply_chain     12         1.500
+      en       policy      3         0.375
+      en   technology      3         0.375
+      zh         risk     35         5.000
+      zh  cooperation     21         3.000
+      zh   technology      4         0.571
+      zh supply_chain      2         0.286
+      zh       policy      0         0.000

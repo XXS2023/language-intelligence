@@ -1,0 +1,22 @@
+# Sector-specific expansion URLs for HS85 / electrical machinery & electronics analysis
+# Format: language|source_name|source_type|query|url
+# Verified URLs that are accessible and relevant to trade, industrial policy, semiconductors and electronics
+
+en|European Commission|policy|semiconductors|https://digital-strategy.ec.europa.eu/en/policies/semiconductors
+en|European Commission|policy|semiconductor chips|https://digital-strategy.ec.europa.eu/en/policies/semiconductor-chips
+en|European Commission|industry|electrical engineering|https://single-market-economy.ec.europa.eu/sectors/electrical-engineering_en
+en|European Commission|industry|industrial strategy|https://single-market-economy.ec.europa.eu/industry/strategy_en
+en|European Commission|press release|industrial policy and trade|https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3445
+en|European Commission|press release|semiconductors and resilience|https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1950
+en|World Factbook|country profile|China economic profile|https://www.cia.gov/the-world-factbook/countries/china/
+en|European Commission|government|EU trade relations|https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/china_en
+en|World Bank|international_org|China overview|https://www.worldbank.org/en/country/china/overview
+en|WTO|international_org|trade report|https://www.wto.org/english/res_e/publications_e/wtr24_e.htm
+# Second batch: more sector-oriented and Chinese official sources
+cn|MOFCOM|government|industrial policy|https://www.mofcom.gov.cn/
+cn|Gov.cn|government|policy and governance|https://www.gov.cn/
+cn|MIIT|government|industrial policy|https://www.miit.gov.cn/
+cn|GACC|government|trade and customs|http://www.customs.gov.cn/
+cn|CAICT|research|technology and electronics|http://www.caict.ac.cn/
+cn|China Daily|state_media|business and industry|https://www.chinadaily.com.cn/business/
+cn|China Daily|state_media|business and industry|https://www.chinadaily.com.cn/

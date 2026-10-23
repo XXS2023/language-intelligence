@@ -1,0 +1,12 @@
+# Verified accessible URLs (language|source_name|source_type|query|url)
+# Each line follows: language|source_name|source_type|query|url
+# Chinese sources
+cn|MOFCOM|government|trade policy|https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_97459d25c9174ec4a9679b689eb495a5.html
+cn|MOFCOM|government|trade policy|https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_4a7a0cc4efc84ec493d7cc7bcc26a05d.html
+cn|Gov.cn|government|policy framing|https://www.gov.cn/yaowen/liebiao/202609/content_7082507.htm
+cn|Gov.cn|government|policy framing|https://www.gov.cn/yaowen/liebiao/202609/content_7082504.htm
+# English sources
+en|European Commission|government|EU trade relations|https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/china_en
+en|World Bank|international_org|China overview|https://www.worldbank.org/en/country/china/overview
+en|WTO|international_org|trade report|https://www.wto.org/english/res_e/publications_e/wtr24_e.htm
+en|European Commission|government|trade policy|https://ec.europa.eu/trade/policy/countries-and-regions/countries/china/

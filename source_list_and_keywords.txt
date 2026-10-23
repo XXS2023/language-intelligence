@@ -1,0 +1,250 @@
+PROJECT 2: LANGUAGE INTELLIGENCE
+
+Selected sector for pilot version: HS85 — Electrical machinery and electronics
+Time window: 2022-01-01 to 2025-09-30
+Pilot corpus target: 20 Chinese articles + 20 English articles
+
+1) SOURCE LIST
+
+CHINESE SOURCES
+1. Xinhua Finance / 新华财经
+   - Strong for official framing and economic policy language
+   - Good for China-side policy and supply-chain narratives
+
+2. China Daily (business and policy coverage)
+   - Useful for government-aligned narrative framing
+   - Good for strategic industrial discourse
+
+3. People’s Daily / 人民网财经
+   - Useful for policy and state-communication framing
+   - Good for industrial and national security narrative vocabulary
+
+4. Ministry of Commerce (MOFCOM / 商务部)
+   - Excellent for official trade and industrial policy vocabulary
+   - Important for import/export dependency framing
+
+5. General Administration of Customs (GACC / 海关总署)
+   - Good for trade flow and customs language
+   - Useful for imports, exports, equipment, and categories
+
+6. First Financial / 第一财经 (if access is feasible)
+   - Good for business-news framing and market tone
+
+7. Caixin / 财新 (if access is feasible)
+   - Useful for corporate and industrial commentary
+
+ENGLISH SOURCES
+1. Reuters
+   - Best for balanced, high-signal business and trade coverage
+   - Very useful for comparison with Chinese descriptions
+
+2. Financial Times
+   - Strong on supply chain, industrial strategy, and market interpretation
+
+3. Euractiv / POLITICO Europe
+   - Useful for policy and EU-level framing
+
+4. European Commission trade / industry pages
+   - Strong for official EU policy tone and terminology
+
+5. OECD / WTO / World Bank pages
+   - Good for cross-border trade and dependency framing
+
+6. Bloomberg or similar high-quality business source (if accessible)
+   - Useful for market-scale and strategic-risk language
+
+7. Major Polish English-language business coverage (optional)
+   - Useful for Poland-centered reporting, if available
+
+SOURCE RULES
+- Keep a balanced mix of official, business, and policy sources
+- Keep no single source above ~35% of one language corpus
+- Keep the same time window across languages
+- Use same sector filter across both corpora
+
+2) KEYWORD BANK FOR PILOT VERSION
+
+Main sector terms (EN)
+- electrical machinery
+- electronic components
+- semiconductors
+- integrated circuits
+- electronics manufacturing
+- industrial equipment
+- power equipment
+- machinery imports
+- trade dependence
+- supply chain
+- supplier diversification
+- critical goods
+- battery components
+- electric vehicles
+- components
+- machinery
+- manufacturing
+- industrial policy
+
+Main sector terms (CN)
+- 电气设备
+- 电子元器件
+- 半导体
+- 集成电路
+- 电子制造
+- 工业设备
+- 电力设备
+- 机械设备
+- 进口依赖
+- 供应链
+- 产业链
+- 供应商多元化
+- 关键物资
+- 电池组件
+- 电子汽车
+- 组件
+- 机械
+- 制造业
+- 产业政策
+
+Trade and exposure terms (EN)
+- import dependence
+- import exposure
+- dependency
+- reliance on China
+- supply chain risk
+- supply chain resilience
+- diversification
+- trade disruption
+- critical imports
+- source concentration
+- strategic dependence
+- trade tension
+- industrial security
+- policy response
+- import share
+- exposure to China
+- sector dependence
+
+Trade and exposure terms (CN)
+- 进口依赖
+- 对华依赖
+- 供应链风险
+- 供应链韧性
+- 多元化
+- 贸易风险
+- 关键进口
+- 供给集中
+- 战略依赖
+- 贸易摩擦
+- 产业安全
+- 政策回应
+- 进口份额
+- 对中国依存度
+- 产业链依赖
+- 进口结构
+
+Risk / resilience / policy framing (EN)
+- risk
+- security
+- resilience
+- stability
+- disruption
+- diversification
+- shortages
+- vulnerability
+- strategic importance
+- protectionism
+- policy intervention
+- industrial strategy
+- geopolitical risk
+- supply shortages
+- emergency planning
+
+Risk / resilience / policy framing (CN)
+- 风险
+- 安全
+- 韧性
+- 稳定
+- 供应中断
+- 多元化
+- 短缺
+- 脆弱性
+- 战略重要性
+- 保护主义
+- 政策干预
+- 产业战略
+- 地缘政治风险
+- 供应短缺
+- 应急措施
+
+Opportunity / cooperation / normalization terms (EN)
+- cooperation
+- partnership
+- market access
+- investment
+- trade cooperation
+- stable trade
+- supply stability
+- development
+- growth opportunity
+- integration
+- expansion
+- investment opportunities
+
+Opportunity / cooperation / normalization terms (CN)
+- 合作
+- 伙伴关系
+- 市场准入
+- 投资
+- 贸易合作
+- 稳定贸易
+- 供应稳定
+- 发展
+- 增长机会
+- 融合
+- 扩展
+- 投资机会
+
+3) FIRST PILOT QUERY STRATEGY
+
+Use 3–4 search strings per language.
+
+English search strings:
+- "China electrical machinery imports Poland"
+- "China supply chain electronics Poland"
+- "electrical machinery trade dependency China Europe"
+- "China semiconductor supply chain Europe"
+- "import dependence China electronics EU"
+
+Chinese search strings:
+- "波兰 中国 电气设备 进口"
+- "中国 电子元器件 供应链 波兰"
+- "中欧 电子设备 贸易 依赖"
+- "中国 半导体 产业链 欧洲"
+- "中国 电子设备 进口依赖"
+
+4) COLLECTION TARGETS
+
+Pilot goal:
+- 20 Chinese documents
+- 20 English documents
+
+Full V1 goal:
+- 100 Chinese documents
+- 100 English documents
+
+5) OUTPUT FOR THIS STAGE
+
+Create the following files in the project folder:
+- source_list_and_keywords.txt
+- source_list.csv (optional if you want a structured source table)
+- keyword_bank_en.csv (optional)
+- keyword_bank_cn.csv (optional)
+
+6) NEXT ACTION
+
+First step: finalize the exact Chinese and English source list
+Second step: collect pilot sample corpus
+Third step: clean and label first 40 documents
+Fourth step: run pilot keyness and collocation analysis
+
+This is the correct next move before full corpus expansion.
